@@ -1,2 +1,3 @@
 # checkGitWorking
 checking particularly for git
+adding new lines ....
